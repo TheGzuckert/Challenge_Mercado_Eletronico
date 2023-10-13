@@ -7,4 +7,4 @@
 - C#
 
 ### Start aplication
-dotnet run
+- dotnet run
