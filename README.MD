@@ -5,4 +5,4 @@
 `dotnet run`
 
 ### Tecnologies
-.net 7`
+.net 7
