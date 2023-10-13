@@ -1,8 +1,10 @@
-### Challenge ADA 023 - Mercado Eletronico
-- Challenge feito para treinar logica de programação feito em C#
-
-### Rodando prova
-`dotnet run`
+### Challenge ADA 2023 - Mercado Eletronico
+- Challenge to training logic
 
 ### Tecnologies
-`.net 7`
+- .net 7
+
+- C#
+
+### Start aplication
+- dotnet run
