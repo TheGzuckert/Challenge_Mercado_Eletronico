@@ -1,0 +1,28 @@
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.exe
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.deps.json
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.runtimeconfig.json
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.dll
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.pdb
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.AssemblyInfo.cs
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.dll
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\refint\GustavoZuckert.dll
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.pdb
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.genruntimeconfig.cache
+C:\Users\Dell\Documents\programas\c_sharp\GustavoZuckert\obj\Debug\net7.0\ref\GustavoZuckert.dll
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.exe
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.deps.json
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.runtimeconfig.json
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.dll
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\bin\Debug\net7.0\GustavoZuckert.pdb
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.AssemblyInfo.cs
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.dll
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\refint\GustavoZuckert.dll
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.pdb
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\GustavoZuckert.genruntimeconfig.cache
+C:\Users\Dell\Documents\programas\c_sharp\Gustavo Zuckert\GustavoZuckert\obj\Debug\net7.0\ref\GustavoZuckert.dll
